@@ -6,4 +6,4 @@ Most of these tools are for updates, patches, and modifications to various servi
 
 Name		| OS   	| Description										| Example
 ----------------|-------|---------------------------------------------------------------------------------------|-------------
-WinDefend-Update.bat		| -WL   | Force and update of Windows Defender to patch any currently found CVE's             | No Examples. Just run it; usually through ManageEngine or on the machine locally
+WinDefend-Update.bat		| -W-   | Force and update of Windows Defender to patch any currently found CVE's             | No Examples. Just run it; usually through ManageEngine or on the machine locally
