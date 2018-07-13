@@ -1,8 +1,6 @@
 cd c:\pstools
 
 @echo off
-
-@echo off
 For /f "tokens=2-4 delims=/ " %a in ('date /t') do (set mydate=%c-%a-%b) 
 echo Computers Updated on %mydate% >> "\\apps\install_files\User Scripts\WindowsDefenderUpdate\WinDefend-Update-List.txt" 
 
